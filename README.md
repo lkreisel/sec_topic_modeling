@@ -28,4 +28,4 @@ Average Return             |  Individual Returns
 ![](topic_avg.png)  |   ![](topic_indiv.png)
 
 
-Select code for this project can be found in the Jupyter notebook file here. 
+Select code for this project can be found in the Jupyter notebook file [here](https://github.com/lkreisel/sec_topic_modeling/blob/main/SEC_Topic_Modeling_.ipynb). 
